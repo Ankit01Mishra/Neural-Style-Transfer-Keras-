@@ -16,14 +16,20 @@ To run the code , copy it and paste it on Google COLAB,it will run in 3-4 minute
 
 # Results
 **Example-1**  
-![alt Examole-1](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohli_styled.png)
+![alt CONTENT IMAGE](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohli.jpg)
+![alt STYLE IMAGE](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/starry_night.jpg)
 
-which is composed of   
+WHICH MAKES
 
-
+![alt GENERATED IMAGE](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohli_styled.png)
 
 
 **Example-2**  
 
-![alt Examole-2](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohil_styled2.png)
+![alt CONTENT IMAGE](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohli.jpg)
+![alt STYLE IMAGE](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/art3.jpg)  
+
+WHICK MAKES
+
+![alt Example-2](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohil_styled2.png)
 
