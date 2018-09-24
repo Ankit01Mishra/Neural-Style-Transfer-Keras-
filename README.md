@@ -16,4 +16,14 @@ To run the code , copy it and paste it on Google COLAB,it will run in 3-4 minute
 
 # Results
 **Example-1**  
-Examples and results are added to the image folders.
+![alt Examole-1](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohli_styled.png)
+
+which is composed of   
+
+
+
+
+**Example-2**  
+
+![alt Examole-2](https://github.com/Ankit01Mishra/Neural-Style-Transfer-Keras-/blob/master/neural-style-transfer-testing-data/kohil_styled2.png)
+
